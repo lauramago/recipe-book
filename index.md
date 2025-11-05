@@ -16,7 +16,7 @@ and merging. Feel free to contribute your own recipes by creating a pull request
 :hidden:
 
 mains/vegetarian-lasagna
-mains/arepas
+mains/arepas #HERE GOES THE INDEX
 pasta/boscaiola
 pasta/dumplings
 ```
